@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnob Karmokar</h1>
 <h3 align="center">Intern, ASIC PD</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnob-karmokar-primesilicon&label=Profile%20views&color=ff0000&style=flat-square" alt="arnob-karmokar-primesilicon" /> </p>
 
 - 🔭 I’m currently working at [PrimeSilicon Technology (BD) Ltd.](https://primesilicon.com)
 

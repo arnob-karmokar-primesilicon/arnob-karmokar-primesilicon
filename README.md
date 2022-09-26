@@ -15,6 +15,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Play Books: A Perfect Ebook Reader for Android](https://blog.arnob.me/2022/06/google-play-books-perfect-ebook-reader.html)
+- [How to Download Official Windows 10/11 ISO from Microsoft Website](https://blog.arnob.me/2022/02/how-to-download-official-windows-10-11.html)
+- [Bypass ISP Restrictions Without Any VPN or Proxy Service](https://blog.arnob.me/2021/01/bypass-isp-restrictions-without-any-vpn.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

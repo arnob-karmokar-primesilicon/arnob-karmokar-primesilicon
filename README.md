@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnob Karmokar</h1>
-<h3 align="center">Intern, ASIC PD</h3>
+<h3 align="center">ASIC PHYSICAL DESIGN ENGINEER</h3>
 
 
 - 🔭 I’m currently working at [PrimeSilicon Technology (BD) Ltd.](https://primesilicon.com)

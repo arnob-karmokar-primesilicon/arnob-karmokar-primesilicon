@@ -2,9 +2,7 @@
 <h3 align="center">ASIC PHYSICAL DESIGN ENGINEER</h3>
 
 <p align="center">
-  <a href="https://git.io/streak-stats" >
-    <img src="https://streak-stats.demolab.com?user=arnob-karmokar-primesilicon&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=arnob-karmokar-primesilicon&exclude_days=Sun%2CSat&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
 </p>
 
 - 🔭 I’m currently working at [PrimeSilicon Technology (BD) Ltd.](https://primesilicon.com)

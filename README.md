@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arnob Karmokar</h1>
 <h3 align="center">ASIC PHYSICAL DESIGN ENGINEER</h3>
 
+<p align="center">
+  <a href="https://git.io/streak-stats" >
+    <img src="https://streak-stats.demolab.com?user=arnob-karmokar-primesilicon&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  </a>
+</p>
 
 - 🔭 I’m currently working at [PrimeSilicon Technology (BD) Ltd.](https://primesilicon.com)
 
